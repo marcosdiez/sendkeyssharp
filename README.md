@@ -15,10 +15,12 @@ Screenshot
 ![Screenshot](screenshot.png)
 
 
-Building:
+Building
 ---------
 
 If you plan to Build this app yourself, you will need
 michaelnoonan's inputsimulator with my extra pull request.
 
 Please download it from here: https://github.com/michaelnoonan/inputsimulator/pull/48
+
+Other than that, just use Visual Studio Community Edition
